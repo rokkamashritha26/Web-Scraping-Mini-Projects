@@ -5,7 +5,7 @@
 * Ignore records for missing days
 * Represent the scraped data as pandas dataframe object.
 
-## Dataframe specific deatails
+## Dataframe specific details
 
 ### Expected column names (order dose not matter):
 
