@@ -9,6 +9,7 @@
 
 ### Expected column names (order dose not matter):
 
+<table><tr><td>
 * Average temperature (°F)
 * Average humidity (%)
 * Average dewpoint (°F)
@@ -19,6 +20,7 @@
 * Rainfall for month (in)'
 * Rainfall for year (in)
 * Maximum rain per minute
+</td><td>
 * Maximum temperature (°F)
 * Minimum temperature (°F)
 * Maximum humidity (%)
@@ -28,6 +30,8 @@
 * Maximum windspeed (mph)
 * Maximum gust speed (mph)
 * Maximum heat index (°F)
+</td></tr></table>
+
 
 ### More details:
 
