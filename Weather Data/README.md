@@ -10,26 +10,28 @@
 ### Expected column names (order dose not matter):
 
 <table><tr><td>
-* Average temperature (°F)
-* Average humidity (%)
-* Average dewpoint (°F)
-* Average barometer (in)
-* Average windspeed (mph)
-* Average gustspeed (mph)
-* Average direction (°deg)
-* Rainfall for month (in)'
-* Rainfall for year (in)
-* Maximum rain per minute
-</td><td>
-* Maximum temperature (°F)
-* Minimum temperature (°F)
-* Maximum humidity (%)
-* Minimum humidity (%)
-* Maximum pressure
-* Minimum pressure
-* Maximum windspeed (mph)
-* Maximum gust speed (mph)
-* Maximum heat index (°F)
+<ul>
+<li>Average temperature (°F)</li>
+<li>Average humidity (%)</li>
+<li>Average dewpoint (°F)</li>
+<li>Average barometer (in)</li>
+<li>Average windspeed (mph)</li>
+<li>Average gustspeed (mph)</li>
+<li>Average direction (°deg)</li>
+<li>Rainfall for month (in)</li>
+<li>Rainfall for year (in)</li>
+<li>Maximum rain per minute</li>
+</ul></td><td><ul>
+<li>Maximum temperature (°F)</li>
+<li>Minimum temperature (°F)</li>
+<li>Maximum humidity (%)</li>
+<li>Minimum humidity (%)</li>
+<li>Maximum pressure</li>
+<li>Minimum pressure</li>
+<li>Maximum windspeed (mph)</li>
+<li>Maximum gust speed (mph)</li>
+<li>Maximum heat index (°F)</li>
+</ul>
 </td></tr></table>
 
 
