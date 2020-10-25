@@ -1,4 +1,4 @@
-# Web Scaping
+# Web Scraping
 
 Web Scraping is a great technique that fetches the contents of a web page directly into your code. Then you are free to manipulate the data as you wish.
 
