@@ -9,3 +9,5 @@ In this repo, I will place projects that solely use the Web Scraping techniques.
 For other projects that use web scraping as a tool, I will place a link below:
 
 * <a href="https://github.com/Tanishk-Sharma/Python-Mini-Projects-and-Programs/tree/master/The%20Hangman%20Game#hangman-game">The Hangman Game</a>: uses Web Scraping technique to fetch words!
+
+* <a href="https://github.com/Tanishk-Sharma/Web-Scraping-Mini-Projects/tree/main/Weather%20Data#scraping-weather-data">Weather Data</a>: Scrape all the available attributes of weather data for each day from 2009-01-01 to 2018-10-28 from a website.
